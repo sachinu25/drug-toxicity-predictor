@@ -3,9 +3,9 @@ pandas
 numpy
 scikit-learn
 plotly
-rdkit-pypi>=2022.9.5
 mordred
 xgboost>=1.7
 tensorflow>=2.13
 torch>=2.0
 matplotlib
+
