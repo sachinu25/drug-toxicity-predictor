@@ -1,0 +1,11 @@
+streamlit
+pandas
+scikit-learn
+matplotlib
+rdkit-pypi
+mordred
+xgboost
+tensorflow
+torch
+plotly
+numpy
