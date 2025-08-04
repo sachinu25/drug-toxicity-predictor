@@ -420,7 +420,9 @@ def main():
         st.warning("""
         **⚠️ Disclaimer**
         
-        This model is for research and educational purposes only. Always consult pharmaceutical experts and regulatory authorities for actual drug development decisions.
+        This model is for research and educational purposes only.
+        CREATED BY SACHIN UPADHYAY
+        GITHUB LINK - https://github.com/sachinu25
         """)
 
 if __name__ == "__main__":
