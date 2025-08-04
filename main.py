@@ -421,8 +421,8 @@ def main():
         **⚠️ Disclaimer**
         
         This model is for research and educational purposes only.
-        CREATED BY SACHIN UPADHYAY
-        GITHUB LINK - https://github.com/sachinu25/drug-toxicity-predictor
+                         CREATED BY SACHIN UPADHYAY
+                               GITHUB LINK - https://github.com/sachinu25/drug-toxicity-predictor
         """)
 
 if __name__ == "__main__":
